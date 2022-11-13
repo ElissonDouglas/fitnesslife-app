@@ -152,7 +152,7 @@ def main():
         elif evento == 'calcular_agua':
             agua()
         elif evento == 'sobre':
-            open_new('https://github.com/fitnesslife-app')
+            open_new('https://github.com/ElissonDouglas/fitnesslife-app')
 
     janela.close()
 
